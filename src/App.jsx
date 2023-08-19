@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import Hero from "./sections/Hero"
 import Popular from "./sections/Popular"
 import Superb from "./sections/Superb"
